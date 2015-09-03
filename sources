@@ -1,6 +1,7 @@
 #Listing of sources for blocking
 http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext
-http://winhelp2002.mvps.org/hosts.txt http://hostsfile.mine.nu/Hosts
+http://winhelp2002.mvps.org/hosts.txt
+http://hostsfile.mine.nu/Hosts
 http://adaway.org/hosts.txt
 http://hosts-file.net/ad_servers.txt
 http://www.malwaredomainlist.com/hostslist/hosts.txt
