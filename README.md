@@ -3,16 +3,16 @@ The purpose of this project is to collect various malware and ad blocking tools 
 
 Merging of multiple fitlers with the addition of my own for usage in host files and routers to filter unwanted sites (malware and ads)
 
-Merged files are updated daily. 
-The files are merged information from the following sites:
-http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext
-http://winhelp2002.mvps.org/hosts.txt
-http://hostsfile.mine.nu/Hosts
-http://adaway.org/hosts.txt
-http://hosts-file.net/ad_servers.txt
-http://www.malwaredomainlist.com/hostslist/hosts.txt
-http://adblock.mahakala.is
-http://adblock.gjtech.net/?format=unix-hosts
+Merged files are updated daily.  
+The files are merged information from the following sites:  
+http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext  
+http://winhelp2002.mvps.org/hosts.txt  
+http://hostsfile.mine.nu/Hosts  
+http://adaway.org/hosts.txt  
+http://hosts-file.net/ad_servers.txt  
+http://www.malwaredomainlist.com/hostslist/hosts.txt  
+http://adblock.mahakala.is  
+http://adblock.gjtech.net/?format=unix-hosts  
 
 I also add in the following to blacklist:
 WinXBlockList - This is a listing of the now built in windows malware/tracking sites
