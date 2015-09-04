@@ -1,9 +1,18 @@
-#Listing of sources for blocking
-http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext
+# Listing of sources for blocking
+# This appears not to work but the following is fine
+#http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext
+# this might be better http://pgl.yoyo.org/adservers/serverlist.php?
+http://pgl.yoyo.org/as/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
+# Creative Commons
 http://winhelp2002.mvps.org/hosts.txt
+# This is LGPL
 http://hostsfile.mine.nu/Hosts
+# CC Attribution 3.0
 http://adaway.org/hosts.txt
 http://hosts-file.net/ad_servers.txt
 http://www.malwaredomainlist.com/hostslist/hosts.txt
 http://adblock.mahakala.is
+# License: http://creativecommons.org/licenses/by/3.0/
 http://adblock.gjtech.net/?format=unix-hosts
+http://someonewhocares.org/hosts/hosts
+
