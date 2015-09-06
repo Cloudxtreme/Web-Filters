@@ -7,8 +7,8 @@ http://pgl.yoyo.org/as/serverlist.php?hostformat=hosts&showintro=0&mimetype=plai
 http://winhelp2002.mvps.org/hosts.txt
 # This is LGPL
 http://hostsfile.mine.nu/Hosts
-# CC Attribution 3.0
-http://adaway.org/hosts.txt
+# CC Attribution 3.0 - bug file
+#http://adaway.org/hosts.txt
 http://hosts-file.net/ad_servers.txt
 http://www.malwaredomainlist.com/hostslist/hosts.txt
 http://adblock.mahakala.is
