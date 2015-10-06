@@ -1,5 +1,4 @@
 # Listing of sources for blocking
-# This appears not to work but the following is fine
 ## ads section for blocking
 # Creative Commons
 http://pgl.yoyo.org/as/serverlist.php?hostformat=hosts;showintro=0
@@ -16,14 +15,7 @@ http://adblock.gjtech.net/?format=unix-hosts
 http://someonewhocares.org/hosts/hosts
 
 ## malware section for blocking
-http://hosts-file.net/emd.txt
-http://hosts-file.net/exp.txt
-http://hosts-file.net/fsa.txt
-http://hosts-file.net/grm.txt
-http://hosts-file.net/mmt.txt
-http://hosts-file.net/pha.txt
-http://hosts-file.net/psh.txt
-http://hosts-file.net/wrz.txt
+http://hosts-file.net/download/hosts.zip
 
 ## porn section for blocking
 ftp://ftp.ut-capitole.fr/pub/reseau/cache/squidguard_contrib/adult.tar.gz
